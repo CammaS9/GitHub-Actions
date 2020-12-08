@@ -30,5 +30,4 @@ jobs:
       - name: Get current date
         run: date
       
-      - name: HI
-        run: echo Hi
+      
